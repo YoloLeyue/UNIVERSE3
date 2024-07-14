@@ -1,0 +1,27 @@
+/* style.css */
+h1 {
+    text-align: center;
+  }
+
+p {
+    text-align:center;
+}
+
+body {
+    margin: 0;
+    overflow: hidden;
+    background-color: #ffffff; 
+}
+
+
+
+svg {
+    display: block;
+    margin: auto;
+    background-image: linear-gradient(to bottom,#B23AEE,#C1FFC1);
+}
+
+
+
+
+
